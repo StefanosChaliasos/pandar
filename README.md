@@ -1,2 +1,2 @@
-# pandac
+# pandar
 Crazy maths and more
