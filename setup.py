@@ -9,12 +9,12 @@ with open(path.join(ROOT, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='pandax',
+    name='pandar',
     version='1.1.4',
     description='Crazy maths and more.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/StefanosChaliasos/pandax',
+    url='https://github.com/StefanosChaliasos/pandar',
     author='Stefanos Chaliasos, Nikolas Doureliadis',
     author_email='stefanoshaliassos@gmail.com',
     keywords='maths',
